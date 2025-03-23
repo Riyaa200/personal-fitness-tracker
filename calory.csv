@@ -1,0 +1,6 @@
+User_ID,Age,Weight_kg,Height_cm,Gender,Calorie_Burned
+1,25,70,175,Male,250
+2,30,80,180,Female,300
+3,35,75,165,Male,270
+4,40,85,170,Female,320
+5,45,90,185,Male,350
